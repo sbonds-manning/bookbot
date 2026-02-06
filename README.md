@@ -6,4 +6,4 @@ Jan 29 2026: The Python red/black rebalancing lesson was too much for me to comp
 
 Feb 1 2026: Almost forgot today. Ugh, that didn't work.
 
-Feb 5 2026: Still stuck on red/black rebalancing.
+Feb 6 2026: Still stuck on red/black rebalancing.
